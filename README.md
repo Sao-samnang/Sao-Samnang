@@ -3,9 +3,6 @@
 <!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div> -->
-<div align="center">
-<img src="bannerGit.mp4" alt="GitHub Banner" width="100%" />
-</div>
 <h1 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h1>
 <h3 align="center">I'm a junior web developer, currently I'm still studying.</h3>
 
