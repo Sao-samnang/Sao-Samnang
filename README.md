@@ -1,10 +1,7 @@
 <!-- Make sure you have Bootstrap included -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-<!-- <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div> -->
 <div align="center">
-  <img src="bannerGit1.png" alt="GitHub Banner" width="100%" />
+  <img src="bannerGit1.gif" alt="GitHub Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h1>
@@ -54,3 +51,6 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Sao-samnang/Sao-Samnang/output/github-snake.svg" />
 </picture>
 
+<div align="center">
+  <img src="bannerGit2.gif" alt="GitHub Banner" width="100%" />
+</div>
