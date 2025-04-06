@@ -4,7 +4,7 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div> -->
 <div align="center">
-  <img src="bannerGit.png" alt="GitHub Banner" width="100%" />
+  <img src="bannerGit1.png" alt="GitHub Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h1>
