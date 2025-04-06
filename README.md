@@ -1,7 +1,10 @@
 <!-- Make sure you have Bootstrap included -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div> -->
+<div align="center">
+<img src="bannerGit.mp4" alt="GitHub Banner" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h1>
 <h3 align="center">I'm a junior web developer, currently I'm still studying.</h3>
