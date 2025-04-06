@@ -4,7 +4,7 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h1>
-<h3 align="center">I'm a junior developer, currently I'm still studying</h3>
+<h3 align="center">I'm a junior web developer, currently I'm still studying.</h3>
 
 ---
 
