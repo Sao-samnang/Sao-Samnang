@@ -1,8 +1,8 @@
 <!-- Make sure you have Bootstrap included -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-<div align="center">
+<!--<div align="center">
   <img src="bannerGit1.svg" alt="GitHub Banner" width="100%" />
-</div>
+</div>-->
 
 <h1 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h1>
 <h3 align="center">I'm a junior web developer, currently I'm still studying.</h3>
@@ -34,7 +34,7 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-6">
+   <div class="col-md-6">
       <img src="https://github-readme-stats.vercel.app/api?username=Sao-Samnang&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
       <img src="https://nirzak-streak-stats.vercel.app/?user=Sao-Samnang&theme=dark&hide_border=false" width="45%" />
     </div>
@@ -51,6 +51,6 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Sao-samnang/Sao-Samnang/output/github-snake.svg" />
 </picture>
 
-<div align="center">
+<!--<div align="center">
   <img src="bannerGit2.svg" alt="GitHub Banner" width="100%" />
-</div>
+</div> -->
