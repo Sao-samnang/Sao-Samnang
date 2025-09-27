@@ -4,8 +4,8 @@
   <img src="bannerGit1.svg" alt="GitHub Banner" width="100%" />
 </div>-->
 
-<h1 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h1>
-<h3 align="center">I'm a new learner in web development major.</h3>
+<h2 align="center">Hi 👋, I'm Sao Samnang, You Can Call Me Samnang.</h2>
+<h1 align="center">I'm a new learner in web development major.</h1>
 
 ---
 
